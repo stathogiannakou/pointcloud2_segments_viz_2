@@ -1,0 +1,3 @@
+input_topic: "pointcloud2_clustering/stationary"
+out_topic: "pointcloud2_segments_viz/pc2_viz_2"
+base_link_frame: "base_link"
